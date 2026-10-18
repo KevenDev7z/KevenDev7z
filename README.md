@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=600&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=780&height=60&lines=%3E+Performance+real%2C+nao+fake+booster;%3E+Android+low-level+%2B+Magisk+modules;%3E+Quebrar%2C+reconstruir+e+polir" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=600&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=780&height=60&lines=%3E+Performance+real%2C+nao+fake+booster;%3E+Android+low-level+%2B+ADB+sem+root;%3E+Quebrar%2C+reconstruir+e+polir" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Keven — System Performance Researcher</h1>
-<h3 align="center">Android Internals • Magisk • PC Optimization</h3>
+<h3 align="center">Android Internals • ADB • Magisk • AxManager • PC Optimization</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Brasil-181717?style=for-the-badge" />
@@ -21,28 +21,55 @@
 
 ### 🧠 Sobre mim
 
-Desenvolvedor focado em **Android a nível de sistema**: módulos Magisk, otimização de aparelhos com root, shell scripting e ferramentas de modding.
-Meu foco é ganho real de desempenho, medido e testado, sem "booster" que só mostra número bonito.
+Pesquisador de sistema focado em **Android a nível de sistema**. Eu procuro falhas e brechas internas nos sistemas de celular e transformo isso em otimização real: mais FPS, menos engasgo, melhor uso de RAM e bateria.
 
-- 🔧 Atualmente trabalhando em módulos Magisk de GPU/CPU/rede e RAM/ZRAM
-- 🧪 Estudando internals do Android, props de sistema e tuning de kernel
+- 🔬 Pesquisa em MIUI / HyperOS, One UI e Motorola (Hello UI)
+- 🔧 Criador de módulos Magisk e módulos AxManager
 - 📱 Aparelho de testes: **Poco X5 Pro** (Snapdragon 778G / Adreno 642L)
-- 💬 Pergunte-me sobre: Magisk, shell script, otimização de Minecraft Bedrock, debloat
+- 💬 Pergunte-me sobre: ADB, props de sistema, Magisk, shell script, Minecraft Bedrock, debloat
+
+---
+
+### 🔬 O que eu descobri e faço
+
+**📱 Xiaomi / HyperOS**
+- Aplicar props de sistema (`ro.`, `persist.sys` e props normais) **sem root, só com ADB**
+- Ativar o **Blur e as Texturas Avançadas** em qualquer Xiaomi low-RAM
+- Remover a limitação de CPU
+- Deixar o Thermal menos rigoroso
+
+**📲 Samsung**
+- Ativar o modo **Top App**: limpa a memória regularmente enquanto você usa apps pesados (jogos e softwares que consomem muita RAM), evitando lentidão. Ideal para quem usa poucos apps ou joga com frequência.
+
+**📞 Motorola**
+- Recursos ocultos extraídos da ROM de um Motorola top de linha e do sistema de um **Moto G15**
+- Melhorias de **áudio**, **toque** e **performance**
+- Pesquisa feita em dupla com um amigo
 
 ---
 
 ### 📦 Projetos
 
+**⚡ Módulos Magisk**
+
 | Projeto | Descrição |
 |---|---|
-| ⚡ **ZenithSpeed** | Módulo Magisk de otimização de gráficos, CPU e rede |
-| 🧠 **RAM Module** | Módulo Magisk dedicado a RAM, ZRAM, swap e armazenamento |
+| ⚡ **Zenith Next** | Otimização de gráficos, CPU e rede |
+| 🧠 **ZRAM Focus** | Gerenciamento de RAM, ZRAM, swap e armazenamento |
+
+**🧩 Módulos AxManager (sem root)**
+
+Módulos focados em estabilidade de FPS, melhor gestão de bateria e RAM, e armazenamento otimizado para carregamento de texturas.
+
+**🛠️ Ferramentas e packs**
+
+| Projeto | Descrição |
+|---|---|
 | 🛠️ **ApkRushTool (ART)** | Ferramenta em Python para modding de APK, com otimização para Minecraft |
 | 🎮 **KNBoost OPT-X Ultimate** | Texture pack para Minecraft Bedrock focado em FPS |
 | 🌅 **Newb X Dawn LITE (otimizado)** | Shader otimizado para rodar leve em aparelhos intermediários |
-| 🪟 **MEUS SCRIPTS** | Pack de scripts `.bat`/`.reg` para Windows: debloater, planos de energia e otimização de jogos |
-| 🐧 **Linux Pack** | Otimização de kernel, memória, energia e bateria, com backup e segurança |
-| 📱 **Xiaomi / HyperOS** | Pesquisa em MIUI/HyperOS: liberação de recursos como blur e texturas avançadas em aparelhos low-end |
+| 🪟 **Windows Pack (MEUS SCRIPTS)** | Debloater, planos de energia, otimização de jogos, mouse e teclado |
+| 🐧 **Linux Pack** | Kernel, memória, energia e bateria, com backup e segurança |
 
 > 🔗 Links dos repositórios: adicionar em cada linha.
 
