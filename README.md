@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="./assets/background.png" alt="Banner" width="100%">
 </p>
@@ -124,12 +125,10 @@ Estabilidade de FPS, gestão de bateria e RAM, e armazenamento otimizado para ca
 | Projeto | Descrição |
 |---|---|
 | **ApkRushTool** | Ferramenta em Python para modding de APK, com otimização para Minecraft |
-| **KNBoost OPT-X Ultimate** | Texture pack Bedrock focado em FPS |
-| **Newb X Dawn LITE (otimizado)** | Shader reduzido para aparelhos intermediários |
-| **Windows Pack** | Debloat, planos de energia, jogos, mouse e teclado |
-| **Linux Pack** | Kernel, memória, energia e bateria, com backup |
-
-> Links dos repositórios: adicionar em cada projeto.
+| **KNBoost OPT-X Ultimate** | Texture pack Bedrock focado em ganho de frames sem reduzir gráficos e chunks |
+| **Newb X Dawn LITE (otimizado)** | Shaders extremamente otimizado e elegante para aparelhos intermediários |
+| **Windows Pack** | Pack completo de otimização para Windows. Cobre tudo que um Windows precisa para ter performance real em jogos e uso diário, incluindo otimização de sistema, jogos e input. Ganho médio de +40 FPS sem forçar o PC |
+| **Linux Pack** | Pack de otimização para Linux focado em performance desktop. Otimização de kernel, gerenciamento de memória, energia, bateria e sistema. Com backup e segurança |
 
 ---
 
@@ -139,8 +138,8 @@ Estabilidade de FPS, gestão de bateria e RAM, e armazenamento otimizado para ca
   <img src="https://skillicons.dev/icons?i=java,androidstudio,bash,html,css,js,linux,git,vscode" />
 </p>
 
-**Principal:** Java · Shell script · Android Studio
-**Também uso:** HTML / CSS / JavaScript (WebUI) · Python · C++ · Windows (batch/registro)
+**Principal:** Java · Shell script
+**Também uso:** HTML / CSS / JavaScript (WebUI) · Python · C++ · Windows · Linux
 
 ---
 
