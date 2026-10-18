@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=500&size=18&pause=1400&color=8B949E&center=true&vCenter=true&width=780&height=50&lines=Android+system-level+engineering;Privilege+escalation+via+ADB+%2F+Shizuku%2C+sem+root;Performance+mensur%C3%A1vel%2C+n%C3%A3o+placebo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=500&size=18&pause=1400&color=8B949E&center=true&vCenter=true&width=780&height=50&lines=Android+system-level+engineering;ADB+%2F+Shizuku%2C+sem+root;Performance+mensur%C3%A1vel%2C+n%C3%A3o+placebo" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Keven <sub>· KevenModz</sub></h1>
@@ -47,20 +47,40 @@ Meu método é encontrar o que fica limitado ou escondido, validar com medição
 
 ## CoreDroid
 
-> Mais de 2 anos de desenvolvimento contínuo · **v1.7 Stable**
+> Mais de 2 anos de desenvolvimento contínuo · **v1.7 Stable** · por **KevenModz**
 
-App Android de otimização que opera com privilégios elevados via **Shizuku** (ADB), sem exigir root. Reúne ajustes por fabricante, reparo de sistema e monitoramento em uma única interface.
+App Android de otimização que opera via **Shizuku** (ADB), sem exigir root. Reúne mais de 40 ajustes de sistema, perfis por fabricante, reparo e monitoramento em uma única interface.
+
+| Categoria | Recursos |
+|---|---|
+| **Segurança e sistema** | Trava de Segurança (impede que o Google Play Services e atualizações em segundo plano revertam os ajustes) · Core Repair (sistema, display e sensores) · Partitions Trimmer · Core Shell (comandos ADB e arquivos SH) |
+| **Monitoramento** | System Dashboard com hardware, SoC, GPU, bateria, rede, RAM, armazenamento, kernel, patch de segurança e uptime |
+| **Performance** | Core Mode · Performance sustentada com lista de prioridade do Turbo Sched · Turbo Kernel Schedule · PerfMagic · Suprimir zonas térmicas · Baixa prioridade do Shell |
+| **Renderização** | Render Preload · System, ANGLE, Native e Game Driver, aplicáveis por pacote · Seletor de renderizador Vulkan / OpenGL com pipelines SkiaVK e SkiaGL |
+| **Tela e input** | Desbloqueador de FPS · Proteção contra burn-in · Proteção de quadros e canvas · Otimização de UI e launcher · Calibração de touch e redução de input lag |
+| **Memória e armazenamento** | Limpeza de armazenamento · Compressão de RAM · Memória Inteligente · Ajuste de ZRAM e swap · Otimizações de ART / Dex2oat via runtime |
+| **Bateria** | Congelamento de apps em cache · Políticas avançadas de energia · Carregamento rápido |
+| **Rede** | Ajuste de parâmetros de rede para reduzir ping |
+| **Áudio** | Modo Surround · Remoção de white noise · Equalizador Hi-Fi |
+| **Core IA** | Otimização de entrada e saída de apps · Otimização automática de jogos · Balanceamento dinâmico de CPU |
+| **Core Utils** | Desativação de estatísticas e logs do sistema · Taxa de quadros sincronizada (Matching Frame Rate) · Baixa prioridade do Dropbox |
+
+> **Aviso:** os recursos que removem limites térmicos e de energia exigem cuidado. Use sempre com monitoramento de temperatura.
+
+### Complemento do CoreDroid (WebUI)
+
+Interface web modular, escrita em um HTML extenso e aberta pelo Core HTML Optimizer. Eu desenvolvi uma **ponte entre a WebUI e o Shizuku**, que permite executar comandos ADB direto pelo site do app. Cada módulo é ativável individualmente.
 
 | Módulo | Função |
 |---|---|
-| **Core Brands** | Perfis dedicados: Xiaomi Optimizer, Samsung Optimizer e Motorola Optimizer |
-| **Trava de Segurança** | Protege o banco de dados de configurações para que o Google Play Services e atualizações em segundo plano não revertam as otimizações |
-| **Core Repair** | Reparo de sistema, touch e sensores |
-| **Core Info / Dashboard** | Telemetria em tempo real: SoC, GPU, CPU, taxa de atualização, bateria, RAM e armazenamento |
-| **Complemento de Injeção** | Módulos isolados e ativáveis individualmente: Driver Booster (camada SurfaceFlinger), Performance Fixa (governors de frequência) e prioridade alta de processos |
+| **Driver Booster** | Otimização na camada SurfaceFlinger |
+| **Performance Fixa** | Frequências de CPU e GPU fixas pelo Performance Manager |
+| **Alta Prioridade de Processos** | Prioriza CPU e memória para o app em primeiro plano |
+| **Limpador de Memória** | Varreduras assíncronas no Garbage Collector do ART |
+| **Desativar Conexões do Google** | Restringe serviços do Google para liberar processamento |
 
 <details>
-<summary><b>Perfis por fabricante</b></summary>
+<summary><b>Perfis por fabricante (Core Brands)</b></summary>
 
 <br>
 
@@ -71,7 +91,7 @@ Habilita Performance Mode, otimiza cache de apps, ativa animações de topo de l
 Otimiza processos e parâmetros de CPU, remove restrições de desempenho, desativa telemetria geral, adiciona otimizações presentes apenas em aparelhos topo de linha (a partir do S21 Ultra) e remove limitações de taxa de quadros.
 
 **Motorola Optimizer**
-Aplica parâmetros de alto desempenho de aparelhos topo de linha, extraídos de ROM e do sistema de um Moto G15.
+Aplica parâmetros de alto desempenho de aparelhos topo de linha, acelera CPU e GPU, otimiza a resposta de tela e toque, e remove restrições do sistema para priorizar a taxa de quadros.
 
 </details>
 
@@ -116,11 +136,11 @@ Estabilidade de FPS, gestão de bateria e RAM, e armazenamento otimizado para ca
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,bash,linux,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,bash,html,css,js,linux,git,vscode" />
 </p>
 
 **Principal:** Java · Shell script · Android Studio
-**Também uso:** Python · C++ · Windows (batch/registro)
+**Também uso:** HTML / CSS / JavaScript (WebUI) · Python · C++ · Windows (batch/registro)
 
 ---
 
