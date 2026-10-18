@@ -15,9 +15,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Magisk-00AF9C?style=flat-square&logo=magisk&logoColor=white" />
   <img src="https://img.shields.io/badge/Brasil-181717?style=flat-square" />
 </p>
@@ -117,10 +116,11 @@ Estabilidade de FPS, gestão de bateria e RAM, e armazenamento otimizado para ca
 ## Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,py,bash,c,linux,windows,git,vscode" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,bash,linux,git,vscode" />
 </p>
+
+**Principal:** Java · Shell script · Android Studio
+**Também uso:** Python · C++ · Windows (batch/registro)
 
 ---
 
