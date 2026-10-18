@@ -3,68 +3,72 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=600&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=780&height=60&lines=%3E+Otimizar+%C3%A9+fazer+menos%2C+dar+mais%3B;%3E+Quebrar%2C+reconstruir+e+polir%3B;%3E+Depura%C3%A7%C3%A3o+vem+antes+da+resolu%C3%A7%C3%A3o%3B;%3E+Kernel+build+finalizada%3A+3+horas+e+5+segundos+%21" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=600&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=780&height=60&lines=%3E+Performance+real%2C+nao+fake+booster%3B;%3E+Android+low-level+%2B+PC+optimization%3B;%3E+Quebrar%2C+reconstruir+e+polir%3B" alt="Typing SVG" />
 </p>
 
-<h1 align="center">👋 Olá, Eu sou o Eric!</h1>
-<h3 align="center">Estudante de Tecnologia de Baixo Nível & Enthusiast de Sistemas</h3>
+<h1 align="center">👋 Keven — System Performance Researcher</h1>
+<h3 align="center">Android Internals & PC Optimization • Low-Level • Performance Real</h3>
 
 <p align="center">
-  💻 Developer Linux & Android (low-level) | Automação | Cybersecurity
+  💻 PC + 📱 Android | Otimização sem forçar hardware no talo | Xiaomi Internals
 </p>
 
 <p align="center">
-  🐧 Linux • 📱 Android • 🐍 Python • 🔐 Cloud Security
+  🐧 Linux • 📱 Android • 🖥️ Windows Internals • 🐍 Python • 🔐 Security Research
 </p>
 
-<h3 align="center">🛠️ Minhas Ferramentas !</h3>
+<h3 align="center">🛠️ Minhas Ferramentas!</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,kotlin,androidstudio,vscode,py,docker,bash,git,linux" />
+    <img src="https://skillicons.dev/icons?i=c,py,bash,git,linux,windows,kotlin,androidstudio,vscode" />
   </a>
 </p>
 
 ---
 
-### 🚀 Sobre Mim
+### 🚀 O que eu faço de verdade
 
-Atualmente sou estudante de Cibersegurança, mas comecei a mexer com tecnologia aos 14 anos, principalmente com Bash e Linux. Sempre tive curiosidade de entender como as coisas funcionam por trás dos “panos”. “Como isso funciona?”, “Como um software é instalado?” ou “Como ele é criado?” eram perguntas que sempre ficavam na minha cabeça. Foi justamente essa curiosidade que despertou meu interesse pela área e me fez querer entender cada vez mais o que acontece por baixo dos panos.O mais curioso é que estamos sempre conectados à tecnologia, mas pouco sabemos sobre como ela realmente funciona. 🫪
+**📱 Android Low-Level - Meu foco principal**
+- Pesquisa em MIUI / HyperOS internals e como a Xiaomi esconde recursos via `ro.*` e `persist.*`
+- Liberação de recursos de flagship em low-end (Blur top de linha, Texturas Avançadas em Tela e Brilho)
+- Research de escrita de props via ADB sem root em Xiaomi - falha encontrada em estudo, em processo de responsible disclosure
+- 12+ dispositivos otimizados na prática com testes reais de fluidez
 
-* 📅 **Nascimento:** 30/07/2009
-* 🎯 **Atualmente estudando:**
-  * Sistemas Operacionais & Kernel Linux
-  * Redes, Segurança & Cloud Security
-  * Automação com Python
-  * Performance em ambientes Linux
+**🖥️ PC Optimization**
+- Otimização de Windows focada em latência, scheduler, serviços e gargalos reais
+- Ganho médio de +40 FPS em jogos, podendo ser mais dependendo do hardware, sem overclock agressivo
+- Sem promessa de 500 FPS, sem forçar PC no talo - performance estável
+- Nada de "game booster" que só fecha processo
+
+**🧠 Filosofia:** Otimizar não é limpar, é entender o sistema antes de mudar ele.
 
 ---
 
-### 
+### 🎯 Atualmente estudando
+
+* Sistemas Operacionais & Kernel Linux
+* Redes, Segurança & Cloud Security
+* Windows Internals & Performance Tuning
+* Automação com Python & Bash
 
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=midnightshady&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
-
 </div>
 
-### 
+---
+
 <h2 align="center">⌘ Commit Activity</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph.svg">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
+</p>
 
+---
 
 ### 🌐 Conecte-se comigo
 
