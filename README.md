@@ -7,50 +7,34 @@
 </p>
 
 <h1 align="center">👋 Keven — System Performance Researcher</h1>
-<h3 align="center">Android Internals & PC Optimization • Low-Level • Performance Real</h3>
+<h3 align="center">Android Internals • PC Optimization • Performance Real</h3>
 
 <p align="center">
-  💻 PC + 📱 Android | Otimização sem forçar hardware no talo | Xiaomi Internals
+  🖥️ Windows • 🐧 Linux • 📱 Android • Otimização de verdade
 </p>
 
-<p align="center">
-  🐧 Linux • 📱 Android • 🖥️ Windows Internals • 🐍 Python • 🔐 Security Research
-</p>
+---
 
-<h3 align="center">🛠️ Minhas Ferramentas!</h3>
+### 📦 O que eu faço
+
+**🪟 Windows Pack - Completo**
+Pack completo de otimização para Windows. Cobre tudo que um Windows precisa para ter performance real em jogos e uso diário, incluindo otimização de sistema, jogos e até mouse e teclado. Ganho médio de +40 FPS sem forçar o PC no talo.
+
+**🐧 Linux Pack**
+Pack de otimização para Linux focado em performance desktop. Otimização de kernel, gerenciamento de memória, energia, bateria e sistema. Com backup e segurança.
+
+**📱 Android / Xiaomi**
+Pesquisa low-level em MIUI / HyperOS. Liberação de recursos de top de linha em aparelhos low-end como Blur e Texturas Avançadas. Otimização real de sistema via análise de props internas. 12+ dispositivos otimizados.
+
+---
+
+### 🛠️ Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,bash,git,linux,windows,kotlin,androidstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,bash,py,c,kotlin,androidstudio,git,vscode" />
   </a>
 </p>
-
----
-
-### 🚀 O que eu faço de verdade
-
-**📱 Android Low-Level - Meu foco principal**
-- Pesquisa em MIUI / HyperOS internals e como a Xiaomi esconde recursos via `ro.*` e `persist.*`
-- Liberação de recursos de flagship em low-end (Blur top de linha, Texturas Avançadas em Tela e Brilho)
-- Research de escrita de props via ADB sem root em Xiaomi - falha encontrada em estudo, em processo de responsible disclosure
-- 12+ dispositivos otimizados na prática com testes reais de fluidez
-
-**🖥️ PC Optimization**
-- Otimização de Windows focada em latência, scheduler, serviços e gargalos reais
-- Ganho médio de +40 FPS em jogos, podendo ser mais dependendo do hardware, sem overclock agressivo
-- Sem promessa de 500 FPS, sem forçar PC no talo - performance estável
-- Nada de "game booster" que só fecha processo
-
-**🧠 Filosofia:** Otimizar não é limpar, é entender o sistema antes de mudar ele.
-
----
-
-### 🎯 Atualmente estudando
-
-* Sistemas Operacionais & Kernel Linux
-* Redes, Segurança & Cloud Security
-* Windows Internals & Performance Tuning
-* Automação com Python & Bash
 
 ---
 
@@ -70,13 +54,13 @@
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🌐 Contato
 
 <p align="left">
+  <a href="mailto:kevenfreire514@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ericrodriguesdasilva134@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
