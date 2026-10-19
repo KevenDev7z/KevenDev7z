@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=500&size=18&pause=1400&color=8B949E&center=true&vCenter=true&width=780&height=50&lines=Android+system-level+engineering;Root+%26+Non-Root+Solutions;Performance+mensur%C3%A1vel%2C+n%C3%A3o+placebo" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Keven · KevenModz</h1>
+<h1 align="center">Keven · Engenheiro de software</h1>
 
 <p align="center">
   <strong>System Performance Researcher</strong><br>
@@ -32,7 +32,7 @@
 
 ## Sobre
 
-Comecei em otimização por necessidade: meu aparelho tinha que rodar melhor e ninguém tinha a resposta. Hoje estudo como cada fabricante limita CPU, térmica e renderização.
+Comecei em otimização por necessidade: meu aparelho tinha que rodar melhor e ninguém tinha a resposta. Hoje estudo como cada fabricante cria sistemas internos, funções e muito mais.
 
 Pesquiso o que fica escondido, meço de verdade e transformo em ajuste que funciona com ou sem root.
 
