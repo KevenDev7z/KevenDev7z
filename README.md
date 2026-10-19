@@ -102,8 +102,8 @@ Texture pack Bedrock focado em ganho de FPS. Mantém qualidade gráfica e chunks
 ### Newb X Dawn LITE (Otimizado)
 Shader ultra otimizado e elegante pra aparelho intermediário. Versão que otimizei pra rodar liso em hardware fraco/médio, mantendo sombra e iluminação bonita sem pesar.
 
-### ApkRushTool
-Ferramenta em Python pra modding de APK, com foco em otimização pra Minecraft Bedrock.
+### KN-CraftTools
+Ferramenta em Python pra modding de apks, com foco em otimização pra Minecraft Bedrock.
 
 ---
 
