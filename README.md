@@ -129,7 +129,7 @@ Ferramenta em Python pra modding de apks, com foco em otimização pra Minecraft
 Focado em ZRAM, swap e limpeza de armazenamento pra manter RAM livre em uso pesado e jogos. Otimiza compressão e gerenciamento de memória.
 
 ### AxManager (sem root)
-FPS, bateria e RAM otimizados pra carregamento de texturas
+Frames, bateria, ram e armazenamento otimizados para extrair o máximo do dispositivo. Plugins específicos para Samsung e Xiaomi. 
 
 ---
 
