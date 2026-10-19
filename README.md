@@ -122,7 +122,7 @@ Ferramenta em Python pra modding de apks, com foco em otimização pra Minecraft
   <img src="./zenith1.jpg" width="32%" /><img src="./zenith2.jpg" width="32%" /><img src="./zenith3.jpg" width="32%" />
 </p>
 <p align="center">
-  <img src="./zenith4.jpg" width="32%" /><img src="./zenith5.jpg" width="32%" /><img src="./zenith6.jpg" width="32%" />
+  <img src="./zenith4.jpg" width="32%" /><img src="./zenith5.jpg" width="32%" />
 </p>
 
 #### ZRAM Focus Next (RAM / swap / armazenamento)
