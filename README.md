@@ -125,11 +125,16 @@ Ferramenta em Python pra modding de apks, com foco em otimização pra Minecraft
   <img src="./zenith4.jpg" width="32%" /><img src="./zenith5.jpg" width="32%" /><img src="./zenith6.jpg" width="32%" />
 </p>
 
-#### ZRAM Focus (RAM / swap / armazenamento)
+#### ZRAM Focus Next (RAM / swap / armazenamento)
+
 Focado em ZRAM, swap e limpeza de armazenamento pra manter RAM livre em uso pesado e jogos. Otimiza compressão e gerenciamento de memória.
 
+<p align="center">
+  <img src="./zram-focus.jpg" alt="ZRAM-Focus Next Relatório" width="100%">
+</p>
+
 ### AxManager (sem root)
-Frames, bateria, ram e armazenamento otimizados para extrair o máximo do dispositivo. Plugins específicos para Samsung e Xiaomi. 
+Frames, bateria, ram e armazenamento otimizados para extrair o máximo do dispositivo. Plugins específicos para Samsung e Xiaomi.
 
 ---
 
