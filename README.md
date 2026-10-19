@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./png/background.png" alt="Banner" width="100%">
+  <img src="./background.png" alt="Banner" width="100%">
 </p>
 
 <p align="center">
@@ -126,11 +126,7 @@ Ferramenta em Python pra modding de apks, com foco em otimização pra Minecraft
 </p>
 
 #### ZRAM Focus (RAM / swap / armazenamento)
-
-<p align="center">
-  <img src="./zram1.jpg" width="48%" />
-  <img src="./zram2.jpg" width="48%" />
-</p>
+Focado em ZRAM, swap e limpeza de armazenamento pra manter RAM livre em uso pesado e jogos. Otimiza compressão e gerenciamento de memória.
 
 ### AxManager (sem root)
 FPS, bateria e RAM otimizados pra carregamento de texturas
