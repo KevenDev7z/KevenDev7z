@@ -10,11 +10,12 @@
 
 <p align="center">
   <strong>System Performance Researcher</strong><br>
-  <sub>Android Internals · Vendor Research · Magisk · AxManager</sub>
+  <sub>Android Internals · Vendor Research · Magisk · AxManager · PC Optimization</sub>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Magisk-00AF9C?style=flat-square&logo=magisk&logoColor=white" />
 </p>
@@ -23,7 +24,8 @@
   <a href="#sobre">Sobre</a> ·
   <a href="#coredroid">CoreDroid</a> ·
   <a href="#pesquisa">Pesquisa</a> ·
-  <a href="#projetos">Projetos</a>
+  <a href="#pc">PC Packs</a> ·
+  <a href="#minecraft">Minecraft</a>
 </p>
 
 ---
@@ -60,17 +62,15 @@ Pesquiso o que fica escondido, meço de verdade e transformo em ajuste que funci
 
 </details>
 
-### Complemento WebUI + Perfis por Fabricante
-
 <details>
-<summary><b>Ver detalhes da WebUI e Core Brands</b></summary>
+<summary><b>Complemento WebUI + Perfis por Fabricante</b></summary>
 <br>
 
-**WebUI:** Criei uma ponte própria entre WebUI e Shizuku pra rodar comandos ADB direto pelo site do app. Módulos: Driver Booster (SurfaceFlinger), Performance Fixa, Alta Prioridade, Limpador ART, Desativar Conexões Google.
+**WebUI:** Ponte própria entre WebUI e Shizuku pra rodar ADB direto no app. Módulos: Driver Booster (SurfaceFlinger), Performance Fixa, Alta Prioridade, Limpador ART, Desativar Conexões Google.
 
-**Xiaomi Optimizer:** Performance Mode, cache, animações flagship, Game Turbo, vídeo e HDR
-**Samsung Optimizer:** Top App, remoção de telemetria e limites de FPS (recursos de S21 Ultra+)
-**Motorola Optimizer:** Parâmetros topo de linha, toque e CPU/GPU
+**Xiaomi:** Performance Mode, cache, animações flagship, Game Turbo, vídeo e HDR
+**Samsung:** Top App, remoção de telemetria e limites de FPS (recursos de S21 Ultra+)
+**Motorola:** Parâmetros topo de linha, toque e CPU/GPU
 
 </details>
 
@@ -84,32 +84,43 @@ Pesquiso o que fica escondido, meço de verdade e transformo em ajuste que funci
 
 ---
 
-## Outros Projetos
+## Packs de PC
+
+### Windows Pack - Completo
+Pack extremamente completo que cobre tudo que um Windows precisa pra ter performance real. Sistema, jogos, rede, serviços e periféricos. Inclui otimização de mouse e teclado pra latência e resposta. Ganho médio de +40 FPS, podendo pegar mais dependendo do hardware, sem forçar PC no talo. Sem booster fake que só fecha processo.
+
+### Linux Pack
+Pack focado em performance desktop. Otimização de kernel (Liquorix), gerenciamento de memória, energia, bateria e sistema. Backup e limpeza do sistema, TLP, Swappiness, ZRAM, Preload e prevenção de erros.
+
+---
+
+## Minecraft
+
+### KNBoost OPT-X Ultimate
+Texture pack Bedrock focado em ganho de FPS. Mantém qualidade gráfica e chunks, sem deixar o jogo feio. FPS a mais com visual limpo.
+
+### Newb X Dawn LITE (Otimizado)
+Shader ultra otimizado e elegante pra aparelho intermediário. Versão que otimizei pra rodar liso em hardware fraco/médio, mantendo sombra e iluminação bonita sem pesar.
+
+### ApkRushTool
+Ferramenta em Python pra modding de APK, com foco em otimização pra Minecraft Bedrock.
+
+---
+
+## Outros
 
 **Módulos Magisk:** Zenith Next (gráficos/CPU/rede) e ZRAM Focus (RAM/swap/armazenamento)
-**AxManager (sem root):** Estabilidade de FPS, bateria e RAM
-
-**Packs e Ferramentas:**
-- **Windows Pack:** Pack completo pra Windows, sistema, jogos e input (mouse/teclado). Média +40 FPS sem forçar PC no talo
-- **Linux Pack:** Kernel, memória, energia, bateria e sistema com backup
-- **ApkRushTool:** Ferramenta Python pra modding de APK
-- **OPT-X / Newb X Dawn LITE:** Texture pack e shader focado em FPS sem perder gráfico
+**AxManager (sem root):** FPS, bateria e RAM otimizados pra carregamento de texturas
 
 ---
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,bash,linux,git,vscode,py,c" />
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,bash,linux,windows,git,vscode,py,c" />
 </p>
 
 ---
-
-## Como usar
-
-1. Ativa Shizuku e concede ADB
-2. Instala o CoreDroid (APK das Releases)
-3. Aplica o perfil do teu fabricante e segue as instruções do app
 
 ## Stats
 
