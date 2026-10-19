@@ -46,6 +46,11 @@ Pesquiso o que fica escondido, meço de verdade e transformo em ajuste que funci
 
 > 2 anos de desenvolvimento · App Android com 40+ ajustes via Shizuku, sem root. Performance, renderização, bateria e sistema numa única interface.
 
+<p align="center">
+  <img src="./coredroid1.jpg" width="48%" />
+  <img src="./coredroid2.jpg" width="48%" />
+</p>
+
 <details>
 <summary><b>Ver lista completa de recursos</b></summary>
 <br>
@@ -109,8 +114,26 @@ Ferramenta em Python pra modding de apks, com foco em otimização pra Minecraft
 
 ## Outros
 
-**Módulos Magisk:** Zenith Next (gráficos/CPU/rede) e ZRAM Focus (RAM/swap/armazenamento)
-**AxManager (sem root):** FPS, bateria e RAM otimizados pra carregamento de texturas
+### Módulos Magisk
+
+#### Zenith Next (gráficos / CPU / rede)
+
+<p align="center">
+  <img src="./zenith1.jpg" width="32%" /><img src="./zenith2.jpg" width="32%" /><img src="./zenith3.jpg" width="32%" />
+</p>
+<p align="center">
+  <img src="./zenith4.jpg" width="32%" /><img src="./zenith5.jpg" width="32%" /><img src="./zenith6.jpg" width="32%" />
+</p>
+
+#### ZRAM Focus (RAM / swap / armazenamento)
+
+<p align="center">
+  <img src="./zram1.jpg" width="48%" />
+  <img src="./zram2.jpg" width="48%" />
+</p>
+
+### AxManager (sem root)
+FPS, bateria e RAM otimizados pra carregamento de texturas
 
 ---
 
